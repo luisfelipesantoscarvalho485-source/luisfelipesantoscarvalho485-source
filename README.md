@@ -45,6 +45,4 @@ Em breve adicionarei meus melhores projetos aqui 🚀
 Email: [Luisfelipesantoscarvalho485@gmail.com](mailto:seuemail@gmail.com)
 GitHub: https://github.com/luisfelipesantoscarvalho485-source
 
-
-https://github-readme-stats.vercel.app/api?username=luisfelipesantoscarvalho485-source
 ---
