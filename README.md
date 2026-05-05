@@ -1,35 +1,48 @@
 # 👋 Olá, eu sou o Miguel
 
-✨ Apaixonado por tecnologia e criação de interfaces  
-
-💻 Desenvolvedor Front-end em evolução  
-
-🚀 Transformo ideias em interfaces modernas usando HTML, CSS e JavaScript  
-⚡ Explorando integração com APIs e Inteligência Artificial  
-🎨 Foco em design moderno, responsividade e experiência do usuário  
-
-📚 Sempre aprendendo, sempre evoluindo  
-
-🎯 Objetivo: me tornar um desenvolvedor Full Stack  
+💻 Desenvolvedor Front-end em evolução
+🚀 Criando interfaces com HTML, CSS e JavaScript
+🤖 Explorando APIs e Inteligência Artificial
+🎯 Foco em design responsivo e experiência do usuário
 
 ---
 
 ## 🚀 Tecnologias
-- HTML
-- CSS
-- JavaScript
-- Node.js (básico)
-- APIs
+
+* HTML
+* CSS
+* JavaScript
+* Node.js (básico)
+* APIs
 
 ---
 
 ## 📈 Em evolução
-Atualmente desenvolvendo projetos com:
-- Integração de IA 🤖  
-- Back-end com Node.js 🔥  
-- Projetos completos (front + back)
+
+Atualmente estudando e praticando:
+
+* Integração com APIs 🤖
+* Back-end com Node.js 🔥
+* Projetos completos (Front + Back) 🚀
+
+---
+
+## 🧠 Sobre mim
+
+Sou apaixonado por tecnologia e gosto de transformar ideias em projetos reais.
+Estou sempre evoluindo e buscando aprender novas ferramentas.
+
+---
+
+## 📂 Projetos
+
+Em breve adicionarei meus melhores projetos aqui 🚀
 
 ---
 
 ## 📫 Contato
-📧 Em breve...
+
+Email: [seuemail@gmail.com](mailto:seuemail@gmail.com)
+GitHub: https://github.com/seuusuario
+
+---
