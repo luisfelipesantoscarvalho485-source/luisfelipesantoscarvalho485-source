@@ -42,7 +42,7 @@ Em breve adicionarei meus melhores projetos aqui 🚀
 
 ## 📫 Contato
 
-Email: [seuemail@gmail.com](mailto:seuemail@gmail.com)
-GitHub: https://github.com/seuusuario
+Email: [Luisfelipesantoscarvalho485@gmail.com](mailto:seuemail@gmail.com)
+GitHub: https://github.com/luisfelipesantoscarvalho485-source
 
 ---
